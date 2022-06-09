@@ -1,0 +1,6 @@
+oracle_0509 에서 src/ex1을 복사해서 붙여 넣고 
+2tier를 3tier로 변경하기 위한 작업
+
+1. META-INF/context.xml
+2. TestConn 수정 - JNDI형식
+3. front를 서블릿으로 처리 
