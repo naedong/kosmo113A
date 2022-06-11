@@ -1,6 +1,6 @@
 @charset "EUC-KR";
-/*// ¼ø¼ö css¿¡¼­´Â »ö±òÀ» ¹Ù²Ü¶§
-º¯¼ö·Î ÁöÁ¤ÇØ¼­ »ç¿ëÇÑ´Ù.
+/*// ìˆœìˆ˜ cssì—ì„œëŠ” ìƒ‰ê¹”ì„ ë°”ê¿€ë•Œ
+ë³€ìˆ˜ë¡œ ì§€ì •í•´ì„œ ì‚¬ìš©í•œë‹¤.
 */
 
 :root {
@@ -54,10 +54,10 @@ body{
 	padding-left: 0;
 }
 
-.navbar_icons li {
+.navbar_icons i {
 	padding: 8px 12px;
 }
-.navbar_toogleBtn {
+.navbar_toggleBtn {
 	display: none;
 	position: absolute;
 	right: 32px;
