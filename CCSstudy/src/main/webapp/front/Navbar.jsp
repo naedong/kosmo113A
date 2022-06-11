@@ -36,7 +36,7 @@ crossorigin="anonymous"></script>
 			<i class="fa-solid fa-dove"></i>
 		</ul>
 		
-		<a href="#"  class="navbar_toogleBtn">
+		<a href="#"  class="navbar_toggleBtn">
 		<i class="fa-solid fa-bars"></i>
 		</a>
 		
